@@ -1,5 +1,7 @@
+import AppSeguro from "./componets/AppSeguro";
+
 const App = () => {
-  return <h1>Hola mundo</h1>;
+  return <AppSeguro />;
 };
 
 export default App;
